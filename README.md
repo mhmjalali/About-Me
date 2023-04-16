@@ -11,7 +11,7 @@ I'm Mohammad Jalali, Front-End Developer from Tehran, Iran.
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mhmjalali&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ## 🔧 My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,materialui,nodejs,sass,bootstrap,jquery,git,cpp,vue,&perline=12)](https://skillicons.dev)
