@@ -26,7 +26,7 @@ I'm Mohammad Jalali, Front-End Developer from Tehran, Iran.
   
 </p>
 
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=mhmjalali)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mhmjalali)](https://git.io/streak-stats)
 
 
 <div display="flex" align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmjalali&theme=github_dark" alt="mhmjalali" /></div>
