@@ -2,9 +2,11 @@
 
 I'm Mohammad Jalali, Front-End Developer from Tehran, Iran.
 
-- 🏦  I am currently working @ [WITEL.co](https://witel.ir)
-- 💻  I use next.js on my current project
-- 📖  I am currently reading [vue.js]
+- 🏦  Dedicated and skilled front-end developer with a strong web development foundation and a sharp eye for
+      design.
+- 💻  Leveraging 4 years of experience as a vital member of the Witel Company front-end team, I've honed my
+      expertise.Additionally, my 1-year tenure as a freelancer has provided valuable insights, ensuring I bring
+      proven proficiency and innovative solutions to every project.
 
 -  keen eye for detail and an aversion to disorganized code
 -  constantly seeking out new skills and opportunities to grow and advance my career
