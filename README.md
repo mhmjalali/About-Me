@@ -10,7 +10,7 @@ I'm Mohammad Jalali, Front-End Developer from Tehran, Iran.
 -  constantly seeking out new skills and opportunities to grow and advance my career
 
 ## 🔧 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,materialui,nodejs,sass,bootstrap,jquery,git,cpp,vue,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,materialui,nodejs,sass,bootstrap,jquery,git,cpp,&perline=12)](https://skillicons.dev)
 
 ## 📫 Where to find me
 <p align="center">
