@@ -25,5 +25,3 @@ I'm Mohammad Jalali, Front-End Developer from Tehran, Iran.
   </a>
   
 </p>
-
-<div display="flex" align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmjalali&theme=github_dark" alt="mhmjalali" /></div>
